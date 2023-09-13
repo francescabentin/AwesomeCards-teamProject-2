@@ -1,6 +1,6 @@
-# Project - Module 2 - Team 6
+# Presentation cards
 
-In this 2nd module, we have created a responsive website for business cards.
+This is a responsive website for business cards, created with the help of a great team of developers.
 
 ## How the Website Works:
 1. We start with the homepage of our website where we need to click on the "Start" button.
